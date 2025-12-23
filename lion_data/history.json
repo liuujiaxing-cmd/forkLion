@@ -543,6 +543,22 @@
         "special": "glow"
       },
       "story": "Your lion evolved! Changes: background: blue_sky \u2192 sunset"
+    },
+    {
+      "timestamp": "2025-12-23T02:03:00.794449",
+      "dna_hash": "06e9a177292acb14",
+      "generation": 1,
+      "mutation_count": 3,
+      "rarity_score": 30.0,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "wise",
+        "accessory": "headphones",
+        "pattern": "cosmic_dust",
+        "background": "sunset",
+        "special": "glow"
+      },
+      "story": "Your lion evolved! Changes: body_color: tan \u2192 brown, accessory: sunglasses \u2192 headphones"
     }
   ]
 }
