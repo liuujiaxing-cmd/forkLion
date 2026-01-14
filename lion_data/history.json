@@ -895,6 +895,22 @@
         "special": "sparkles"
       },
       "story": "Your lion rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-01-14T02:10:20.296795",
+      "dna_hash": "95aae1257b6cf59d",
+      "generation": 1,
+      "mutation_count": 14,
+      "rarity_score": 30.0,
+      "traits": {
+        "body_color": "silver",
+        "face_expression": "neutral",
+        "accessory": "crown",
+        "pattern": "aurora",
+        "background": "sunset",
+        "special": "sparkles"
+      },
+      "story": "Your lion evolved! Changes: body_color: brown \u2192 silver, pattern: cosmic_dust \u2192 aurora"
     }
   ]
 }
