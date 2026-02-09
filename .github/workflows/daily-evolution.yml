@@ -2,7 +2,6 @@ name: Daily Evolution
 
 on:
   schedule:
-    # Run daily at midnight UTC
     - cron: '0 0 * * *'
   workflow_dispatch:
     inputs:
@@ -35,31 +34,31 @@ jobs:
         run: |
           pip install -r requirements.txt
       
-      - name: Check if monkey exists
-        id: check_monkey
+      - name: Check if pet exists
+        id: check_pet
         run: |
-          if [ -f "monkey_data/dna.json" ]; then
+          if [ -f "lion_data/dna.json" ]; then
             echo "exists=true" >> $GITHUB_OUTPUT
           else
             echo "exists=false" >> $GITHUB_OUTPUT
           fi
       
-      - name: Initialize monkey (first time)
-        if: steps.check_monkey.outputs.exists == 'false'
+      - name: Initialize pet (first time)
+        if: steps.check_pet.outputs.exists == 'false'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: |
-          echo "🐵 First time setup - initializing monkey..."
+          echo "🐾 First time setup - initializing pet..."
           python src/cli.py init --from-fork
       
-      - name: Evolve monkey (random - no AI key needed)
-        if: steps.check_monkey.outputs.exists == 'true'
+      - name: Evolve pet (random evolution)
+        if: steps.check_pet.outputs.exists == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: |
-          echo "🧬 Evolving monkey (random evolution)..."
+          echo "🧬 Evolving pet (random evolution)..."
           python src/cli.py evolve --strength 0.2
       
       - name: Update README
@@ -72,16 +71,16 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          git add monkey_data/ README.md
+          git add lion_data/ README.md
           
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "🐵 Daily evolution: $(date +%Y-%m-%d)"
+            git commit -m "🐾 Daily evolution: $(date +%Y-%m-%d)"
             git push
           fi
       
-      - name: Show monkey stats
+      - name: Show pet stats
         run: |
-          echo "📊 Current monkey stats:"
+          echo "📊 Current pet stats:"
           python src/cli.py show
