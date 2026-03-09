@@ -1,8 +1,8 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "829d47f6fa02c902",
-  "mutation_count": 50,
+  "dna_hash": "fddc449bc3559524",
+  "mutation_count": 51,
   "birth_timestamp": 332563,
   "traits": {
     "body_color": {
@@ -21,9 +21,9 @@
       "gene_sequence": "3c1d8885"
     },
     "pattern": {
-      "value": "void",
+      "value": "quantum",
       "rarity": "legendary",
-      "gene_sequence": "1f81bd00"
+      "gene_sequence": "bda652b7"
     },
     "background": {
       "value": "mountains",
