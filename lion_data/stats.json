@@ -1,8 +1,8 @@
 {
-  "dna_hash": "ccb4023734f406db",
+  "dna_hash": "3a23b64dc12ea72a",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 110,
+  "mutation_count": 111,
   "rarity_score": 26.666666666666668,
   "parent_id": null,
   "traits": {
@@ -19,7 +19,7 @@
       "rarity": "rare"
     },
     "pattern": {
-      "value": "fractals",
+      "value": "flames",
       "rarity": "rare"
     },
     "background": {
@@ -31,5 +31,5 @@
       "rarity": "uncommon"
     }
   },
-  "last_updated": "2026-05-02T01:26:23.933874"
+  "last_updated": "2026-05-03T01:30:38.774853"
 }
