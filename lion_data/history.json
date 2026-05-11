@@ -2783,6 +2783,22 @@
         "special": "energy"
       },
       "story": "Your lion evolved randomly!"
+    },
+    {
+      "timestamp": "2026-05-11T01:52:59.278549",
+      "dna_hash": "7fd9a7c4a8f12e05",
+      "generation": 1,
+      "mutation_count": 121,
+      "rarity_score": 40.0,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "curious",
+        "accessory": "wings",
+        "pattern": "nebula",
+        "background": "forest",
+        "special": "aura"
+      },
+      "story": "Your lion evolved randomly!"
     }
   ]
 }
