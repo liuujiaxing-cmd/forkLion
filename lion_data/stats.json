@@ -1,9 +1,9 @@
 {
-  "dna_hash": "3419f3b21198f638",
+  "dna_hash": "147fe32f419349b6",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 125,
-  "rarity_score": 45.0,
+  "mutation_count": 128,
+  "rarity_score": 35.0,
   "parent_id": null,
   "traits": {
     "body_color": {
@@ -15,7 +15,7 @@
       "rarity": "common"
     },
     "accessory": {
-      "value": "wings",
+      "value": "diamond_chain",
       "rarity": "legendary"
     },
     "pattern": {
@@ -23,13 +23,13 @@
       "rarity": "rare"
     },
     "background": {
-      "value": "space",
-      "rarity": "rare"
+      "value": "mountains",
+      "rarity": "uncommon"
     },
     "special": {
-      "value": "aura",
-      "rarity": "rare"
+      "value": "shadow",
+      "rarity": "uncommon"
     }
   },
-  "last_updated": "2026-05-13T01:53:13.786999"
+  "last_updated": "2026-05-14T01:56:04.504366"
 }
