@@ -1,9 +1,9 @@
 {
-  "dna_hash": "09d7ce08c3e55791",
+  "dna_hash": "e95d624b64333e5a",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 140,
-  "rarity_score": 40.0,
+  "mutation_count": 142,
+  "rarity_score": 36.666666666666664,
   "parent_id": null,
   "traits": {
     "body_color": {
@@ -11,8 +11,8 @@
       "rarity": "common"
     },
     "face_expression": {
-      "value": "sleepy",
-      "rarity": "common"
+      "value": "wise",
+      "rarity": "uncommon"
     },
     "accessory": {
       "value": "golden_crown",
@@ -27,9 +27,9 @@
       "rarity": "uncommon"
     },
     "special": {
-      "value": "energy",
-      "rarity": "rare"
+      "value": "glow",
+      "rarity": "uncommon"
     }
   },
-  "last_updated": "2026-05-25T02:04:43.741143"
+  "last_updated": "2026-05-26T01:55:53.944722"
 }
