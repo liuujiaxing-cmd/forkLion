@@ -1,9 +1,9 @@
 {
-  "dna_hash": "4dc5ccde10a739ba",
+  "dna_hash": "a0778009c6c3d425",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 146,
-  "rarity_score": 41.66666666666667,
+  "mutation_count": 147,
+  "rarity_score": 40.0,
   "parent_id": null,
   "traits": {
     "body_color": {
@@ -23,13 +23,13 @@
       "rarity": "rare"
     },
     "background": {
-      "value": "beach",
-      "rarity": "uncommon"
+      "value": "blue_sky",
+      "rarity": "common"
     },
     "special": {
       "value": "aura",
       "rarity": "rare"
     }
   },
-  "last_updated": "2026-06-01T02:14:23.770775"
+  "last_updated": "2026-06-02T02:15:08.455145"
 }
