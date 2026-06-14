@@ -3327,6 +3327,22 @@
         "special": "transcendent"
       },
       "story": "Your lion evolved randomly!"
+    },
+    {
+      "timestamp": "2026-06-14T02:14:28.061393",
+      "dna_hash": "b895d6bc59d12a88",
+      "generation": 1,
+      "mutation_count": 163,
+      "rarity_score": 28.333333333333332,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "excited",
+        "accessory": "bandana",
+        "pattern": "hearts",
+        "background": "green_grass",
+        "special": "transcendent"
+      },
+      "story": "Your lion evolved randomly!"
     }
   ]
 }
