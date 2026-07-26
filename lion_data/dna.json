@@ -1,8 +1,8 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "87ea1021187d8c08",
-  "mutation_count": 211,
+  "dna_hash": "c2e728889bb377a3",
+  "mutation_count": 213,
   "birth_timestamp": 332563,
   "traits": {
     "body_color": {
@@ -26,9 +26,9 @@
       "gene_sequence": "1aa0a4dd"
     },
     "background": {
-      "value": "volcano",
+      "value": "underwater",
       "rarity": "rare",
-      "gene_sequence": "a35dd45b"
+      "gene_sequence": "cf097d16"
     },
     "special": {
       "value": "energy",
