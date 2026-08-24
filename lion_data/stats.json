@@ -1,9 +1,9 @@
 {
-  "dna_hash": "645905a828080736",
+  "dna_hash": "71af4f2682390fdf",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 245,
-  "rarity_score": 55.00000000000001,
+  "mutation_count": 247,
+  "rarity_score": 46.666666666666664,
   "parent_id": null,
   "traits": {
     "body_color": {
@@ -11,8 +11,8 @@
       "rarity": "common"
     },
     "face_expression": {
-      "value": "divine",
-      "rarity": "legendary"
+      "value": "winking",
+      "rarity": "rare"
     },
     "accessory": {
       "value": "monocle",
@@ -27,9 +27,9 @@
       "rarity": "rare"
     },
     "special": {
-      "value": "aura",
+      "value": "energy",
       "rarity": "rare"
     }
   },
-  "last_updated": "2026-08-23T00:32:58.011400"
+  "last_updated": "2026-08-24T00:32:07.719571"
 }
