@@ -1,8 +1,8 @@
 {
-  "dna_hash": "8be363c6144e22e9",
+  "dna_hash": "79edf1408f2a573a",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 311,
+  "mutation_count": 313,
   "rarity_score": 43.333333333333336,
   "parent_id": null,
   "traits": {
@@ -15,7 +15,7 @@
       "rarity": "rare"
     },
     "accessory": {
-      "value": "horns",
+      "value": "laser_eyes",
       "rarity": "rare"
     },
     "pattern": {
@@ -23,7 +23,7 @@
       "rarity": "rare"
     },
     "background": {
-      "value": "space",
+      "value": "aurora",
       "rarity": "rare"
     },
     "special": {
@@ -31,5 +31,5 @@
       "rarity": "rare"
     }
   },
-  "last_updated": "2026-10-21T02:15:04.731107"
+  "last_updated": "2026-10-22T02:09:30.376611"
 }
