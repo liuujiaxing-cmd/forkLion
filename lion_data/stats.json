@@ -1,9 +1,9 @@
 {
-  "dna_hash": "ee53ac23638b2656",
+  "dna_hash": "81a78f3ab3fe6839",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 319,
-  "rarity_score": 43.333333333333336,
+  "mutation_count": 320,
+  "rarity_score": 51.66666666666667,
   "parent_id": null,
   "traits": {
     "body_color": {
@@ -15,8 +15,8 @@
       "rarity": "rare"
     },
     "accessory": {
-      "value": "laser_eyes",
-      "rarity": "rare"
+      "value": "wings",
+      "rarity": "legendary"
     },
     "pattern": {
       "value": "nebula",
@@ -31,5 +31,5 @@
       "rarity": "rare"
     }
   },
-  "last_updated": "2026-10-26T02:01:04.468138"
+  "last_updated": "2026-10-27T02:38:39.372603"
 }
