@@ -1,8 +1,8 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "91e111e018d100df",
-  "mutation_count": 321,
+  "dna_hash": "869c3fa83c46d567",
+  "mutation_count": 324,
   "birth_timestamp": 332563,
   "traits": {
     "body_color": {
@@ -11,9 +11,9 @@
       "gene_sequence": "d47133ea"
     },
     "face_expression": {
-      "value": "winking",
+      "value": "laughing",
       "rarity": "rare",
-      "gene_sequence": "65d8a2d3"
+      "gene_sequence": "dbc6932f"
     },
     "accessory": {
       "value": "wings",
@@ -21,14 +21,14 @@
       "gene_sequence": "b6b9711d"
     },
     "pattern": {
-      "value": "nebula",
+      "value": "fractals",
       "rarity": "rare",
-      "gene_sequence": "5aa6e7de"
+      "gene_sequence": "0021f769"
     },
     "background": {
-      "value": "underwater",
+      "value": "space",
       "rarity": "rare",
-      "gene_sequence": "cf097d16"
+      "gene_sequence": "cf6b0483"
     },
     "special": {
       "value": "particles",
