@@ -5759,6 +5759,22 @@
         "special": "glow"
       },
       "story": "Your lion evolved randomly!"
+    },
+    {
+      "timestamp": "2026-11-13T03:50:25.675797",
+      "dna_hash": "f85bd61a727e14c8",
+      "generation": 1,
+      "mutation_count": 339,
+      "rarity_score": 50.0,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "laughing",
+        "accessory": "golden_crown",
+        "pattern": "void",
+        "background": "mountains",
+        "special": "glow"
+      },
+      "story": "Your lion evolved randomly!"
     }
   ]
 }
